@@ -9,7 +9,8 @@
 
     This is our basic website
 
-    Chad has now edited it.
+    Chadd has now edited it.
+
 
 
 </body>
