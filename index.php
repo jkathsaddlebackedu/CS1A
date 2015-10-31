@@ -23,11 +23,6 @@ Computer Science!
 <p class="test2 width">this is the second test</p>	
 
 
-
-
-    Michael had edited it.
-
-
 </body>
 
 
