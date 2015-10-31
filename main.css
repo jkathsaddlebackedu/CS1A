@@ -1,0 +1,35 @@
+.red {
+
+	background: red;
+	font-size: 25px;
+	font-weight: bolder;
+	text-decoration: line-through;
+	text-align: center;
+	
+}
+
+.test {
+
+	font: italic bolder;
+	background: blue;
+	text-decoration: underline;
+}
+
+.test2 {
+
+	font: cursive;
+	background: pink;
+	max-width: 175px;
+	font-size: 25px;
+
+
+
+}
+
+.width {
+		max-width: 150px;
+}
+
+.background {
+	background-image: url(http://www.jsums.edu/compscience/files/2014/06/compsc.png);
+	}

@@ -1,20 +1,34 @@
+<!DOCTYPE html>
 <html>
 
 <head>
 
-    Saddleback CS1A
+    <title>Saddleback CS1A</title> 
+
+    <link href="main.css" rel="stylesheet">
+
+
 </head>
 
-<body>
+<body class= "background">
+	 
 
-    This is our basic website
+<div class="red width">
 
-    <mark>Chadd</mark> has now edited it.
+Computer Science!
 
-    Mike out site is down again? are you working o n it?
+</div>	
+
+<p class="test width">This is just a test </p>
+<p class="test2 width">this is the second test</p>	
+
+
 
 
 
 </body>
+
+
+
 
 </html>
